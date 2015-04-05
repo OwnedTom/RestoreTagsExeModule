@@ -35,7 +35,7 @@ namespace RestoreTagsExeModule
         {
             get
             {
-                return "Test";
+                return "https://github.com/OwnedTom/RestoreTagsExeModule/";
             }
         }
         public string Version
@@ -43,7 +43,7 @@ namespace RestoreTagsExeModule
             get
             {
                 //return Assembly.GetExecutingAssembly().GetName().Version.ToString();
-                return "gibberish";
+                return "0.1";
             }
         }
         public string Built
